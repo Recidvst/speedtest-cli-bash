@@ -11,6 +11,6 @@ speedtest-cli --json | python -m json.tool
 
 echo 'Finished with the test at' $currentTime
 
-sleep 900
+sleep 600
 
 done
