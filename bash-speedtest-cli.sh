@@ -25,7 +25,7 @@ echo $results | python -m json.tool >> $resultsFile
 echo 'File printed'
 
 
-echo 'Waiting ' $waitTime/60 ' mins..'
+echo 'Waiting ' $(( $waitTime / 60 )) ' mins..'
 
 sleep $waitTime
 

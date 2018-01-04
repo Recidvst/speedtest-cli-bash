@@ -34,7 +34,7 @@ git push origin master
 echo 'File pushed'
 
 
-echo 'Waiting ' $waitTime/60 ' mins..'
+echo 'Waiting ' $(( $waitTime / 60 )) ' mins..'
 
 sleep $waitTime
 
