@@ -3,11 +3,13 @@
 while true
 do
 
-echo 'Starting a SpeedTest check at' `date "+%H:%M:%S on %Y-%m-%d"`
+currentTime=$(date "+%H:%M:%S on %Y-%m-%d")
+
+echo 'Starting a SpeedTest check at' $currentTime
 
 speedtest-cli --json | python -m json.tool
 
-echo 'Finished with the test at' `date "+%H:%M:%S on %Y-%m-%d"`
+echo 'Finished with the test at' $currentTime
 
 sleep 900
 
