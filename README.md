@@ -1,5 +1,5 @@
 # speedtest-cli-bash
-Bash script to run regular speed tests using the SpeedTest CLI tool.
+Bash script to run regular speed tests using the SpeedTest CLI tool and store the results locally and in a Github repo.
 
 ## Requirements
 - The excellent [speedtest-cli](https://github.com/sivel/speedtest-cli "speedtest-cli Github page").
