@@ -44,3 +44,49 @@
     "bytes_received": 13331204,
     "share": null
 }
+{
+    "download": 10568393.209088584,
+    "upload": 971519.9131551778,
+    "ping": 18.769,
+    "server": {
+        "url": "http://speedtest-net-1.mh.speedtest.uk.net/speedtest/upload.php",
+        "lat": "51.5243",
+        "lon": "-0.7206",
+        "name": "Maidenhead",
+        "country": "Great Britain",
+        "cc": "GB",
+        "sponsor": "XILO",
+        "id": "838",
+        "url2": "http://speedtest-net-2.mh.speedtest.uk.net/speedtest/upload.php",
+        "host": "speedtest-net-1.mh.speedtest.uk.net:8080",
+        "d": 73.53171014074911,
+        "latency": 18.769
+    },
+    "timestamp": "2018-01-04T22:09:59.437042Z",
+    "bytes_sent": 1867776,
+    "bytes_received": 13341444,
+    "share": null
+}
+{
+    "download": 10502068.044783222,
+    "upload": 1082531.1071522727,
+    "ping": 16.175,
+    "server": {
+        "url": "http://s1.slo.speedtest.interoute.net/speedtest/upload.php",
+        "lat": "51.5100",
+        "lon": "-0.5900",
+        "name": "Slough",
+        "country": "United Kingdom",
+        "cc": "GB",
+        "sponsor": "Interoute VDC",
+        "id": "10280",
+        "url2": "http://s2.slo.speedtest.interoute.net/speedtest/upload.php",
+        "host": "slo.speedtest.interoute.net:8080",
+        "d": 82.57903415332159,
+        "latency": 16.175
+    },
+    "timestamp": "2018-01-04T22:11:35.869495Z",
+    "bytes_sent": 1818624,
+    "bytes_received": 13341444,
+    "share": null
+}

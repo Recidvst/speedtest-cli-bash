@@ -28,8 +28,8 @@ echo 'File printed'
 echo 'Pushing file to Github repo..'
 
 git add .
-git commit -m "Speedtest results updated"
-git push origin
+git commit -m "Speedtest results updated - $currentTime "
+git push origin master
 
 echo 'File pushed'
 
