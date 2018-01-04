@@ -113,3 +113,26 @@
     "bytes_received": 13310724,
     "share": null
 }
+{
+    "download": 10495351.268481294,
+    "upload": 975144.0960999669,
+    "ping": 18.818,
+    "server": {
+        "url": "http://speedtest.vodafone.co.uk/speedtest/upload.php",
+        "lat": "51.4009",
+        "lon": "-1.3235",
+        "name": "Newbury",
+        "country": "Great Britain",
+        "cc": "GB",
+        "sponsor": "Vodafone UK",
+        "id": "1685",
+        "url2": "http://speedtest-newbury.vodafone.co.uk/speedtest/upload.php",
+        "host": "speedtest.vodafone.co.uk:8080",
+        "d": 34.360177341591054,
+        "latency": 18.818
+    },
+    "timestamp": "2018-01-04T22:24:55.412162Z",
+    "bytes_sent": 1654784,
+    "bytes_received": 13351684,
+    "share": null
+}
