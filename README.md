@@ -21,10 +21,11 @@ Bash script to run regular speed tests using the SpeedTest CLI tool and store th
 -g => Save the results to your local file and also push to your GitHub repo.
 -c => Receive the results in a CSV format instead of JSON
 ```
-- Using multiple flags is fine, but avoid using `-s` & `g` as this will duplicate your results.
-- There are some script variables used to control the time format, wait time between tests and the results filename. The wait time is in seconds.
+- Using multiple flags is fine, but avoid using both `-s` & `-g` as this will duplicate your results.
+- There are some script variables used to control the time format, wait time between tests and the results filename. Find them here:
 ```
 currentTime
 waitTime
 resultsFile
 ```
+- The wait time is in seconds.
