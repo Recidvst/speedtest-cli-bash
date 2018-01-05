@@ -297,3 +297,26 @@
     "bytes_received": 13443844,
     "share": null
 }
+{
+    "download": 10197211.617646273,
+    "upload": 1049519.2390515557,
+    "ping": 19.004,
+    "server": {
+        "url": "http://s1.slo.speedtest.interoute.net/speedtest/upload.php",
+        "lat": "51.5100",
+        "lon": "-0.5900",
+        "name": "Slough",
+        "country": "United Kingdom",
+        "cc": "GB",
+        "sponsor": "Interoute VDC",
+        "id": "10280",
+        "url2": "http://s2.slo.speedtest.interoute.net/speedtest/upload.php",
+        "host": "slo.speedtest.interoute.net:8080",
+        "d": 82.57903415332159,
+        "latency": 19.004
+    },
+    "timestamp": "2018-01-05T22:41:36.444482Z",
+    "bytes_sent": 1728512,
+    "bytes_received": 12868552,
+    "share": null
+}
