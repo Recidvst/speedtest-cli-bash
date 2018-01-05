@@ -2,7 +2,6 @@
 
 while true
 do
-	
     while getopts sgc opt;
     do
 
@@ -67,6 +66,5 @@ fi
 echo 'Waiting ' $(( $waitTime / 60 )) ' mins..'
 
 sleep $waitTime
-
 
 done
