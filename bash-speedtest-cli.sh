@@ -7,17 +7,13 @@ do
 
     case $opt in
         s)
-            save=true
-        ;;
+            save=true;;
         g)
-            github=true
-        ;;
+            github=true;;
         c)
-            csv=true
-        ;;
+            csv=true;;
         \?)
-            echo "Sorry, didn't understand that option flag.. :| -$OPTARG" >&2
-        ;;
+            echo "Sorry, didn't understand that option flag.. :| -$OPTARG" >&2;;
     esac
 
     sleep 1
@@ -56,6 +52,14 @@ fi
 
 if [ $github ] 
 then
+    echo 'Printing to file..'
+    if [ $csv ] 
+    then
+        echo $results >> $resultsFile
+    else
+        echo $results | python -m json.tool >> $resultsFile
+    fi
+    echo 'File printed'
     echo 'Pushing file to Github repo..'
         git add $resultsFile
         git commit $resultsFile -m "Speedtest results updated - $currentTime "
