@@ -251,3 +251,26 @@
     "bytes_received": 13423364,
     "share": null
 }
+{
+    "download": 10683884.918765426,
+    "upload": 978665.4022873422,
+    "ping": 15.577,
+    "server": {
+        "url": "http://speedtest-net1.rapidswitch.co.uk/speedtest/upload.php",
+        "lat": "51.5243",
+        "lon": "-0.7206",
+        "name": "Maidenhead",
+        "country": "Great Britain",
+        "cc": "GB",
+        "sponsor": "Iomart",
+        "id": "3839",
+        "url2": "http://speedtest-net2.rapidswitch.co.uk/speedtest/upload.php",
+        "host": "speedtest-net1.rapidswitch.co.uk:8080",
+        "d": 73.53171014074911,
+        "latency": 15.577
+    },
+    "timestamp": "2018-01-05T22:13:11.812922Z",
+    "bytes_sent": 1867776,
+    "bytes_received": 13443568,
+    "share": null
+}
