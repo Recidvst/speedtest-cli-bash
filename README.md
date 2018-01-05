@@ -8,7 +8,7 @@ Bash script to run regular speed tests using the SpeedTest CLI tool and store th
 
 ## Instructions
 - Install the speedtest cli with PIP by using `pip install speedtest-cli`
-- There are two bash file options. The standard will print the results to a text file, while the GitHub version will in addition push to a GitHub repo. Use the method you prefer.
+- There are three bash file options. The standard will print the results to a text file, while the GitHub version will in addition push to a GitHub repo. The simple, verbose method just prints the verbose output in the terminal. Use the method you prefer.
 - If you want to push to GitHub then you'll need to set up a repo as I don't really want your speedtest results ;)
 - Empty out the speedtestresults.txt file and confirm that this is in the same directory as your bash file.
 - Run `bash-speedtest-cli.sh` or `bash-speedtest-cli-github.sh` in your terminal.
