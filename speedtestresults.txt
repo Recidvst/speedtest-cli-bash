@@ -617,3 +617,26 @@
     "bytes_received": 11774448,
     "share": null
 }
+{
+    "download": 10228847.968919655,
+    "upload": 1143740.679632011,
+    "ping": 161.392,
+    "server": {
+        "url": "http://plvaca-speedtest1.race.com/speedtest/upload.php",
+        "lat": "34.0500",
+        "lon": "-118.2500",
+        "name": "Los Angeles, CA",
+        "country": "United States",
+        "cc": "US",
+        "sponsor": "Race Communications",
+        "id": "3226",
+        "url2": "http://plvaca-speedtest2.race.com/speedtest/upload.php",
+        "host": "plvaca-speedtest1.race.com:8080",
+        "d": 20.556527442976513,
+        "latency": 161.392
+    },
+    "timestamp": "2018-01-07T21:25:09.487639Z",
+    "bytes_sent": 1818624,
+    "bytes_received": 13208324,
+    "share": null
+}
