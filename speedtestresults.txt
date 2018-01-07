@@ -434,3 +434,25 @@
     "bytes_received": 9753740,
     "share": null
 }
+{
+    "download": 7390336.695153753,
+    "upload": 965865.3310954466,
+    "ping": 168.145,
+    "server": {
+        "url": "http://lax.speedtest.sbcglobal.net/speedtest/upload.php",
+        "lat": "34.0500",
+        "lon": "-118.2500",
+        "name": "Los Angeles, CA",
+        "country": "United States",
+        "cc": "US",
+        "sponsor": "AT&T",
+        "id": "5031",
+        "host": "lax.speedtest.sbcglobal.net:8080",
+        "d": 20.556527442976513,
+        "latency": 168.145
+    },
+    "timestamp": "2018-01-07T19:49:58.847471Z",
+    "bytes_sent": 1466368,
+    "bytes_received": 9577808,
+    "share": null
+}
