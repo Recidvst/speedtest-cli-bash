@@ -594,3 +594,26 @@
     "share": null
 }
 3226,Race Communications,"Los Angeles, CA",2018-01-07T21:11:16.020622Z,20.556527442976513,161.95,10107219.16183672,1074773.8404565265
+{
+    "download": 9130535.935154624,
+    "upload": 1154103.8404914048,
+    "ping": 153.187,
+    "server": {
+        "url": "http://losangeles-speedtest.atlanticmetro.net/speedtest/upload.php",
+        "lat": "34.0500",
+        "lon": "-118.2500",
+        "name": "Los Angeles, CA",
+        "country": "United States",
+        "cc": "US",
+        "sponsor": "Atlantic Metro",
+        "id": "2953",
+        "url2": "http://eng.lax0.atlanticmetro.net/speedtest/upload.php",
+        "host": "losangeles-speedtest.atlanticmetro.net:8080",
+        "d": 20.556527442976513,
+        "latency": 153.187
+    },
+    "timestamp": "2018-01-07T21:13:33.510911Z",
+    "bytes_sent": 1859584,
+    "bytes_received": 11774448,
+    "share": null
+}
