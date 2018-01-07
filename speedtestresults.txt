@@ -570,3 +570,26 @@
     "bytes_received": 12059592,
     "share": null
 }
+{
+    "download": 2095944.7201452514,
+    "upload": 753863.9872226415,
+    "ping": 159.139,
+    "server": {
+        "url": "http://losangeles-speedtest.atlanticmetro.net/speedtest/upload.php",
+        "lat": "34.0500",
+        "lon": "-118.2500",
+        "name": "Los Angeles, CA",
+        "country": "United States",
+        "cc": "US",
+        "sponsor": "Atlantic Metro",
+        "id": "2953",
+        "url2": "http://eng.lax0.atlanticmetro.net/speedtest/upload.php",
+        "host": "losangeles-speedtest.atlanticmetro.net:8080",
+        "d": 20.556527442976513,
+        "latency": 159.139
+    },
+    "timestamp": "2018-01-07T20:59:37.141436Z",
+    "bytes_sent": 1474560,
+    "bytes_received": 2732592,
+    "share": null
+}
